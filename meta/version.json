@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T06:40:57.175Z",
-  "archiveRunStamp": "2026-03-23T06-40-57.175Z",
+  "generatedAt": "2026-03-23T07:26:49.870Z",
+  "archiveRunStamp": "2026-03-23T07-26-49.870Z",
   "source": "versions-getter sync",
   "results": [
     {
@@ -16,6 +16,21 @@
     {
       "slug": "antigravity",
       "file": "ide/antigravity/latest/version.json",
+      "ok": true
+    },
+    {
+      "slug": "vscode-ext:dbaeumer.vscode-eslint",
+      "file": "plugins/vscode/dbaeumer.vscode-eslint/latest/version.json",
+      "ok": true
+    },
+    {
+      "slug": "vscode-ext:esbenp.prettier-vscode",
+      "file": "plugins/vscode/esbenp.prettier-vscode/latest/version.json",
+      "ok": true
+    },
+    {
+      "slug": "vscode-ext:eamodio.gitlens",
+      "file": "plugins/vscode/eamodio.gitlens/latest/version.json",
       "ok": true
     },
     {
