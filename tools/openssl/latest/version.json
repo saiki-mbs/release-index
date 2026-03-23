@@ -1,0 +1,7 @@
+{
+  "series": "3.6",
+  "version": "3.6.1",
+  "link": "https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36",
+  "eol": "2026-11-01",
+  "maintained": true
+}

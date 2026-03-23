@@ -1,0 +1,7 @@
+{
+  "series": "1.35",
+  "version": "1.35.3",
+  "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.35.md",
+  "eol": "2027-02-28",
+  "maintained": true
+}
