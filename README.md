@@ -6,7 +6,7 @@
 
 Machine-readable release snapshots for IDEs, plugins, runtimes, platforms, and tools.
 
-Last updated (UTC): **2026-03-23T07:27:03Z**
+Last updated (UTC): **2026-03-23T07:47:19Z**
 
 ## Data layout
 
@@ -29,7 +29,10 @@ Last updated (UTC): **2026-03-23T07:27:03Z**
 ## File examples
 
 - [VS Code stable](./ide/vscode/stable/version.json)
-- [WakaTime VS Code latest](./plugins/wakatime/vscode-wakatime/latest/version.json)
+- [WakaTime VS Code latest](./plugins/vscode/vscode-wakatime/latest/version.json)
+- [Sublime Text latest](./ide/sublime-text/latest/version.json)
+- [Zed latest](./ide/zed/latest/version.json)
+- [Neovim latest](./ide/neovim/latest/version.json)
 - [Go latest](./runtimes/go/latest/version.json)
 - [Linux latest](./platforms/linux/latest/version.json)
 - [Nginx latest](./tools/nginx/latest/version.json)
@@ -37,7 +40,7 @@ Last updated (UTC): **2026-03-23T07:27:03Z**
 ## Raw URL examples
 
 - [VS Code stable raw](https://raw.githubusercontent.com/saiki-mbs/release-index/master/ide/vscode/stable/version.json)
-- [WakaTime VS Code raw](https://raw.githubusercontent.com/saiki-mbs/release-index/master/plugins/wakatime/vscode-wakatime/latest/version.json)
+- [WakaTime VS Code raw](https://raw.githubusercontent.com/saiki-mbs/release-index/master/plugins/vscode/vscode-wakatime/latest/version.json)
 
 ## History model
 

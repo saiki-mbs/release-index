@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T07:26:49.870Z",
-  "archiveRunStamp": "2026-03-23T07-26-49.870Z",
+  "generatedAt": "2026-03-23T07:47:03.334Z",
+  "archiveRunStamp": "2026-03-23T07-47-03.334Z",
   "source": "versions-getter sync",
   "results": [
     {
@@ -34,154 +34,169 @@
       "ok": true
     },
     {
+      "slug": "sublime-text",
+      "file": "ide/sublime-text/latest/version.json",
+      "ok": true
+    },
+    {
+      "slug": "zed",
+      "file": "ide/zed/latest/version.json",
+      "ok": true
+    },
+    {
+      "slug": "neovim",
+      "file": "ide/neovim/latest/version.json",
+      "ok": true
+    },
+    {
       "slug": "vscode-wakatime",
-      "file": "plugins/wakatime/vscode-wakatime/latest/version.json",
+      "file": "plugins/vscode/vscode-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "sublime-wakatime",
-      "file": "plugins/wakatime/sublime-wakatime/latest/version.json",
+      "file": "plugins/sublime/sublime-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "zed-wakatime",
-      "file": "plugins/wakatime/zed-wakatime/latest/version.json",
+      "file": "plugins/zed/zed-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "jetbrains-wakatime",
-      "file": "plugins/wakatime/jetbrains-wakatime/latest/version.json",
+      "file": "plugins/jetbrains/jetbrains-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "vim-wakatime",
-      "file": "plugins/wakatime/vim-wakatime/latest/version.json",
+      "file": "plugins/vim/vim-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "wakatime-mode",
-      "file": "plugins/wakatime/wakatime-mode/latest/version.json",
+      "file": "plugins/emacs/wakatime-mode/latest/version.json",
       "ok": false,
       "error": "404 Not Found · endoflife.date/api/v1/products/wakatime-mode/"
     },
     {
       "slug": "atom-wakatime",
-      "file": "plugins/wakatime/atom-wakatime/latest/version.json",
+      "file": "plugins/atom/atom-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "textmate-wakatime",
-      "file": "plugins/wakatime/textmate-wakatime/latest/version.json",
+      "file": "plugins/textmate/textmate-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "netbeans-wakatime",
-      "file": "plugins/wakatime/netbeans-wakatime/latest/version.json",
+      "file": "plugins/netbeans/netbeans-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "eclipse-wakatime",
-      "file": "plugins/wakatime/eclipse-wakatime/latest/version.json",
+      "file": "plugins/eclipse/eclipse-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "visualstudio-wakatime",
-      "file": "plugins/wakatime/visualstudio-wakatime/latest/version.json",
+      "file": "plugins/visualstudio/visualstudio-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "xcode-wakatime",
-      "file": "plugins/wakatime/xcode-wakatime/latest/version.json",
+      "file": "plugins/xcode/xcode-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "notepadpp-wakatime",
-      "file": "plugins/wakatime/notepadpp-wakatime/latest/version.json",
+      "file": "plugins/notepadpp/notepadpp-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "gedit-wakatime",
-      "file": "plugins/wakatime/gedit-wakatime/latest/version.json",
+      "file": "plugins/gedit/gedit-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "brackets-wakatime",
-      "file": "plugins/wakatime/brackets-wakatime/latest/version.json",
+      "file": "plugins/brackets/brackets-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "komodo-wakatime",
-      "file": "plugins/wakatime/komodo-wakatime/latest/version.json",
+      "file": "plugins/komodo/komodo-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "wing-wakatime",
-      "file": "plugins/wakatime/wing-wakatime/latest/version.json",
+      "file": "plugins/wing/wing-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "browser-wakatime",
-      "file": "plugins/wakatime/browser-wakatime/latest/version.json",
+      "file": "plugins/browser/browser-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "godot-wakatime",
-      "file": "plugins/wakatime/godot-wakatime/latest/version.json",
+      "file": "plugins/godot/godot-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "kakoune-wakatime",
-      "file": "plugins/wakatime/kakoune-wakatime/latest/version.json",
+      "file": "plugins/kakoune/kakoune-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "kate-wakatime",
-      "file": "plugins/wakatime/kate-wakatime/latest/version.json",
+      "file": "plugins/kate/kate-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "ssms-wakatime",
-      "file": "plugins/wakatime/ssms-wakatime/latest/version.json",
+      "file": "plugins/ssms/ssms-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "sketch-wakatime",
-      "file": "plugins/wakatime/sketch-wakatime/latest/version.json",
+      "file": "plugins/sketch/sketch-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "adobe-xd-wakatime",
-      "file": "plugins/wakatime/adobe-xd-wakatime/latest/version.json",
+      "file": "plugins/adobe-xd/adobe-xd-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "processing-wakatime",
-      "file": "plugins/wakatime/processing-wakatime/latest/version.json",
+      "file": "plugins/processing/processing-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "texstudio-wakatime",
-      "file": "plugins/wakatime/texstudio-wakatime/latest/version.json",
+      "file": "plugins/texstudio/texstudio-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "eric6-wakatime",
-      "file": "plugins/wakatime/eric6-wakatime/latest/version.json",
+      "file": "plugins/eric6/eric6-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "coda-wakatime",
-      "file": "plugins/wakatime/coda-wakatime/latest/version.json",
+      "file": "plugins/coda/coda-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "c9-wakatime",
-      "file": "plugins/wakatime/c9-wakatime/latest/version.json",
+      "file": "plugins/c9/c9-wakatime/latest/version.json",
       "ok": true
     },
     {
       "slug": "camunda-modeler-wakatime-plugin",
-      "file": "plugins/wakatime/camunda-modeler-wakatime-plugin/latest/version.json",
+      "file": "plugins/camunda-modeler/camunda-modeler-wakatime-plugin/latest/version.json",
       "ok": false,
       "error": "404 Not Found · endoflife.date/api/v1/products/camunda-modeler-wakatime-plugin/"
     },
