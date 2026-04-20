@@ -6,7 +6,7 @@
 
 Machine-readable release snapshots for IDEs, plugins, runtimes, platforms, and tools.
 
-Last updated (UTC): **2026-04-19T07:21:51Z**
+Last updated (UTC): **2026-04-20T08:10:35Z**
 
 ## Data layout
 
